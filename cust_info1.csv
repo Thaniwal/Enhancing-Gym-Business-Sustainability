@@ -1,0 +1,267 @@
+Customer_Id,Name,Address,Age,Gender,Package_type,Package_duration,Amount,Start_date,Attrition_flag,Start_month_year
+1,Navin Sharma,Curaj,35,Male,Muscle,6,4500,22-08-2022,Existing,Aug-22
+2,Nitesh yadav,Kishangarh ,31,Male,Muscle,6,4500,22-08-2022,Attrited,Aug-22
+3,Harishankar Shibu,Curaj,21,Male,Muscle,3,2500,22-08-2022,Attrited,Aug-22
+4,Jagdish Jadhav,Curaj,47,Male,Both,3,4000,22-08-2022,Attrited,Aug-22
+5,Mahendra Saha,Curaj,41,Male,Muscle,3,2200,22-08-2022,Existing,Aug-22
+6,Harishankar Nagar ,Curaj,22,Male,Muscle,6,4000,22-08-2022,Attrited,Aug-22
+7,Kavita,Curaj,28,Female,Both,3,3850,22-08-2022,Existing,Aug-22
+8,Abhinav,Curaj,30,Male,Muscle,3,2250,22-08-2022,Attrited,Aug-22
+9,Dhankesh Meena,Curaj,26,Male,Muscle,6,4050,22-08-2022,Existing,Aug-22
+10,Gajananda Pareek,Curaj,21,Male,Both,1,4100,23-08-2022,Attrited,Aug-22
+11,Krishna Kumar Mohbey,Curaj,38,Male,Both,3,4200,22-08-2022,Existing,Aug-22
+12,Anuradha Pandey ,Curaj,27,Female,Both,3,4500,24-08-2022,Attrited,Aug-22
+13,Sarath Kumar,Curaj,22,Male,Muscle,3,2250,24-08-2022,Attrited,Aug-22
+14,Yash Khandelwal ,Bandarsindari ,29,Male,Muscle,1,700,24-08-2022,Attrited,Aug-22
+15,Ravi jain,Bandarsindari ,29,Male,Muscle,1,700,24-08-2022,Attrited,Aug-22
+16,Deepak Jangid,Bandarsindari ,24,Male,Muscle,1,700,24-08-2022,Attrited,Aug-22
+17,Abhishek Sharma,Bandarsindari ,20,Male,Muscle,1,700,24-08-2022,Attrited,Aug-22
+18,Jaishree ,Curaj,26,Female,Both,1,1600,24-08-2022,Attrited,Aug-22
+19,Samir khan,Curaj,19,Male,Muscle,1,800,24-08-2022,Attrited,Aug-22
+20,Astitva Tripathi ,Curaj,21,Male,Muscle,1,800,24-08-2022,Attrited,Aug-22
+21,Hitesh,Bandarsindari ,22,Male,Muscle,1,700,25-08-2022,Attrited,Aug-22
+22,Pradhan Gurjar ,Mundoti,21,Male,Muscle,1,700,25-08-2022,Attrited,Aug-22
+23,Jatin,Curaj ,23,Male,Muscle,1,1000,25-08-2022,Attrited,Aug-22
+24,Aarya Nayak,Curaj,21,Male,Muscle,1,800,25-08-2022,Existing,Aug-22
+25,Pawan Sharma,Curaj,20,Male,Muscle,3,2100,25-08-2022,Attrited,Aug-22
+26,Udit Bhaskar ,Curaj,20,Male,Muscle,1,800,25-08-2022,Attrited,Aug-22
+27,Kshitij Meena,Curaj,22,Male,Muscle,1,800,25-08-2022,Attrited,Aug-22
+28,Ashif,Curaj,27,Male,Muscle,3,2100,25-08-2022,Attrited,Aug-22
+29,Rajpal Kumar,Curaj,21,Male,Muscle,1,800,27-08-2022,Attrited,Aug-22
+30,Pawan Nayak,Curaj,20,Male,Muscle,1,800,27-08-2022,Attrited,Aug-22
+31,Mahendra Gurjar ,Mundoti ,22,Male,Muscle,1,700,27-08-2022,Attrited,Aug-22
+32,Lekhraj Bagdi,Mundoti ,24,Male,Muscle,1,700,27-08-2022,Attrited,Aug-22
+33,Shailesh Kumar ,Curaj,23,Male,Muscle,3,2250,27-08-2022,Attrited,Aug-22
+34,Shivraj Tepan,Mundoti,25,Male,Muscle,1,700,27-08-2022,Attrited,Aug-22
+35,Devnarayan ,Mundoti ,25,Male,Muscle,1,700,27-08-2022,Attrited,Aug-22
+36,Mahaveer Jangid,Bandarsindari ,29,Male,Muscle,1,700,27-08-2022,Attrited,Aug-22
+37,Gautam ,Mundoti,22,Male,Muscle,1,700,29-08-2022,Attrited,Aug-22
+38,Lalchand ,Mundoti ,22,Male,Muscle,1,700,29-08-2022,Existing,Aug-22
+39,Suman Mahala,Curaj,23,Female,Muscle,3,2250,29-08-2022,Attrited,Aug-22
+40,Sohan Singh,Curaj,25,Male,Muscle,3,2250,29-08-2022,Attrited,Aug-22
+41,Rahul kumar,Curaj,28,Male,Muscle,3,2100,30-08-2022,Attrited,Aug-22
+42,Anant,Curaj,21,Male,Muscle,3,2250,30-08-2022,Attrited,Aug-22
+43,Jeetamal,Bandarsindari ,31,Male,Both,3,4000,30-08-2022,Attrited,Aug-22
+44,Hemraj Chaudhary ,Bandarsindari ,26,Male,Both,3,4000,30-08-2022,Attrited,Aug-22
+45,Dinesh Kumar,Bandarsindari ,21,Male,Muscle,3,2100,30-08-2022,Attrited,Aug-22
+46,Hemraj Meghwal ,Bandarsindari ,23,Male,Muscle,3,2100,30-08-2022,Attrited,Aug-22
+47,Nitin,Bandarsindari ,18,Male,Muscle,1,800,01-09-2022,Attrited,Sep-22
+48,Aarif Khan ,Curaj,30,Male,Both,1,1200,01-09-2022,Attrited,Sep-22
+49,Pankaj Bairwa,Bandarsindari ,20,Male,Muscle,3,2100,01-09-2022,Attrited,Sep-22
+50,Piyush Jhalani,Curaj,27,Male,Muscle,3,2000,01-09-2022,Attrited,Sep-22
+51,Santoop Tanwar,Bandarsindari ,26,Male,Muscle,3,2050,01-09-2022,Existing,Sep-22
+52,Rohit Kumar ,Mundoti,25,Male,Muscle,3,2050,01-09-2022,Existing,Sep-22
+53,Kuldeep Nehra,Curaj,28,Male,Muscle,3,2100,01-09-2022,Attrited,Sep-22
+54,Priyanshu Sharma,Curaj ,20,Male,Muscle,3,2100,01-09-2022,Attrited,Sep-22
+55,Suraj sain ,Mundoti ,25,Male,Muscle,1,800,02-09-2022,Existing,Sep-22
+56,Amit Chaudhary ,Bandarsindari ,20,Male,Muscle,1,800,02-09-2022,Attrited,Sep-22
+57,Ravi Laxkar,Bandarsindari ,23,Male,Muscle,1,700,02-09-2022,Attrited,Sep-22
+58,Sunil Kumar ,Curaj ,23,Male,Muscle,3,2250,02-09-2022,Attrited,Sep-22
+59,Akhil Agrawal ,Curaj,41,Male,Muscle,3,2500,02-09-2022,Attrited,Sep-22
+60,Yogesh Kumar ,Curaj ,27,Male,Muscle,1,800,02-09-2022,Existing,Sep-22
+61,Shivraj Singh ,Mundoti ,20,Male,Muscle,1,800,03-09-2022,Existing,Sep-22
+62,Dhanraj Choudhary ,Curaj ,21,Male,Muscle,1,800,03-09-2022,Attrited,Sep-22
+63,Ram Harsh Singh,Curaj,30,Male,Both,1,1700,05-09-2022,Existing,Sep-22
+64,Sudhanshu ,Curaj ,24,Male,Muscle,1,1000,05-09-2022,Attrited,Sep-22
+65,Mukesh Gurjar ,Bandarsindari ,19,Male,Muscle,1,700,09-09-2022,Attrited,Sep-22
+66,Trilok Chand,Curaj ,22,Male,Muscle,1,800,10-09-2022,Attrited,Sep-22
+67,Abhishth Jha,Curaj ,22,Female,Muscle,1,800,12-09-2022,Existing,Sep-22
+68,Manisha Chaudhary ,Curaj ,20,Female,Muscle,1,800,12-09-2022,Attrited,Sep-22
+69,Shweta yadav ,Curaj ,22,Female,Muscle,1,800,12-09-2022,Existing,Sep-22
+70,Himanshu Verma ,Curaj,19,Male,Muscle,3,2250,14-09-2022,Attrited,Sep-22
+71,Shivaraj Singh,Bandarsindari ,45,Male,Both,1,1500,14-09-2022,Attrited,Sep-22
+72,Devendra Singh Chauhan ,Mundoti ,20,Male,Muscle,1,800,14-09-2022,Attrited,Sep-22
+73,Ajay,Curaj,21,Male,Muscle,3,2500,15-09-2022,Attrited,Sep-22
+74,Nitesh Bairwa ,Bandarsindari ,18,Male,Muscle,1,800,15-09-2022,Attrited,Sep-22
+75,Kalpesh Bairwa ,Bandarsindari ,20,Male,Muscle,1,800,15-09-2022,Attrited,Sep-22
+76,Govind ,Bandarsindari ,52,Male,Both,1,1500,15-09-2022,Existing,Sep-22
+77,Kanhaiya Lal Bairwa ,Bandarsindari ,40,Male,Both,1,1500,16-09-2022,Existing,Sep-22
+78,Hartik Raj,Bandarsindari ,20,Male,Muscle,1,800,16-09-2022,Attrited,Sep-22
+79,Shikha Jain ,Curaj ,38,Female,Both,3,3500,20-09-2022,Attrited,Sep-22
+80,Saourabh,Curaj ,24,Male,Muscle,1,800,20-09-2022,Attrited,Sep-22
+81,Yograj,Bandarsindari ,30,Male,Muscle,1,800,20-09-2022,Existing,Sep-22
+82,Deepak,Mundoti ,26,Male,Muscle,1,800,20-09-2022,Attrited,Sep-22
+83,Yogesh,Curaj ,27,Male,Muscle,1,1000,20-09-2022,Attrited,Sep-22
+84,Rajkumar ,Bandarsindari ,32,Male,Muscle,1,800,21-09-2022,Attrited,Sep-22
+85,Arjun Gurjar ,Bandarsindari ,23,Male,Muscle,1,800,22-09-2022,Attrited,Sep-22
+86,Om prakash Sunda,Curaj ,28,Male,Both,3,4200,22-09-2022,Existing,Sep-22
+87,Shweta Malik,Curaj ,28,Female,Muscle,1,800,22-09-2022,Attrited,Sep-22
+88,Vijay Swami ,Bandarsindari ,18,Male,Muscle,1,800,25-09-2022,Attrited,Sep-22
+89,Nikhil Chaudhary ,Bandarsindari ,23,Male,Muscle,1,700,03-10-2022,Attrited,Oct-22
+90,Anish Bairwa ,Bandarsindari ,19,Male,Muscle,1,700,03-10-2022,Attrited,Oct-22
+91,Dushyant Raj,Bandarsindari ,18,Male,Muscle,1,800,03-10-2022,Attrited,Oct-22
+92,Akram Khan,Curaj ,27,Male,Muscle,1,800,03-10-2022,Attrited,Oct-22
+93,Nasatula ,Curaj ,22,Male,Muscle,1,1000,02-10-2022,Attrited,Oct-22
+94,Sharvan Chaudhary ,Curaj ,21,Male,Muscle,1,800,04-10-2022,Attrited,Oct-22
+95,Mukesh Meghwal ,Mundoti ,21,Male,Muscle,1,800,07-10-2022,Attrited,Oct-22
+96,Rahul Chaudhary ,Mundoti ,18,Male,Muscle,1,800,07-10-2022,Attrited,Oct-22
+97,Radhuram Gurjar ,Bandarsindari ,28,Male,Muscle,1,800,08-10-2022,Attrited,Oct-22
+98,Shaitan Gurjar ,Bandarsindari ,27,Male,Muscle,1,800,08-10-2022,Attrited,Oct-22
+99,Fazilhaq,Curaj,28,Male,Muscle,3,2300,10-10-2022,Attrited,Oct-22
+100,Jannat Gul ,Curaj ,25,Male,Muscle,3,2300,11-10-2022,Attrited,Oct-22
+101,Devaurathan G Nair,Curaj,21,Male,Both,1,1700,11-10-2022,Attrited,Oct-22
+102,Tannavi Sharma ,Curaj ,23,Female,Muscle,1,1000,11-10-2022,Attrited,Oct-22
+103,Shankar Lal ,Bandarsindari ,23,Male,Muscle,1,800,11-10-2022,Attrited,Oct-22
+104,Shankar Riyar,Bandarsindari ,23,Male,Muscle,1,800,11-10-2022,Attrited,Oct-22
+105,Brahmadev ,Curaj ,27,Male,Muscle,1,800,12-10-2022,Attrited,Oct-22
+106,Hemlata ,Curaj ,23,Female,Muscle,1,800,12-10-2022,Attrited,Oct-22
+107,Sunil Dabariya,Curaj,20,Male,Muscle,1,800,11-10-2022,Attrited,Oct-22
+108,Juhi Kumawat ,Curaj ,25,Female,Muscle,3,2050,12-10-2022,Attrited,Oct-22
+109,Devashish Joshi,Curaj ,24,Male,Muscle,3,2050,12-10-2022,Attrited,Oct-22
+110,Ramjas Gurjar ,Mundoti,26,Male,Muscle,1,1000,15-10-2022,Attrited,Oct-22
+111,Rajendra Prasad ,Mundoti ,26,Male,Muscle,1,700,15-10-2022,Existing,Oct-22
+112,Chetan Chaumiya,Bandarsindari ,24,Male,Muscle,1,800,18-10-2022,Attrited,Oct-22
+113,Deepak Prajapat ,Bandarsindari ,20,Male,Muscle,1,800,26-10-2022,Attrited,Oct-22
+114,Digvijay Meena,Curaj ,18,Male,Muscle,1,750,31-10-2022,Attrited,Oct-22
+115,Sonam ,Curaj ,26,Female,Both,3,4000,31-10-2022,Attrited,Oct-22
+116,Payal,Curaj ,21,Female,Muscle,1,800,01-11-2022,Attrited,Nov-22
+117,Dinesh Choudhary ,Curaj ,21,Male,Muscle,1,800,01-11-2022,Attrited,Nov-22
+118,Sonu saini ,Curaj ,20,Male,Muscle,1,800,02-11-2022,Attrited,Nov-22
+119,Yash,Curaj ,20,Male,Muscle,3,2400,03-11-2022,Attrited,Nov-22
+120,Sahil Yadav,Curaj ,21,Male,Muscle,3,2400,03-11-2022,Attrited,Nov-22
+121,Yogendra Chaudhary ,Mundoti ,18,Male,Muscle,1,800,04-11-2022,Attrited,Nov-22
+122,Ashish Kumawat ,Curaj ,32,Male,Muscle,1,900,04-11-2022,Existing,Nov-22
+123,Devesh Sawant,Curaj ,42,Male,Both,3,3500,08-11-2022,Attrited,Nov-22
+124,Ketaki sawant ,Curaj ,40,Female,Both,3,3500,08-11-2022,Attrited,Nov-22
+125,Babulal Mali ,Bandarsindari ,25,Male,Muscle,1,800,08-11-2022,Attrited,Nov-22
+126,Diksha Kumari,Curaj ,27,Female,Both,1,1360,08-11-2022,Attrited,Nov-22
+127,Akhila,Curaj ,26,Female,Both,1,1360,08-11-2022,Attrited,Nov-22
+128,Sikha Jain ,Curaj,38,Female,Both,1,1360,08-11-2022,Attrited,Nov-22
+129,Prakash,Nohria ,28,Male,Muscle,1,800,10-11-2022,Attrited,Nov-22
+130,Anmol Gupta ,Curaj ,19,Male,Muscle,1,800,10-11-2022,Attrited,Nov-22
+131,Ramesh Chand,Bandarsindari ,24,Male,Muscle,1,800,10-11-2022,Attrited,Nov-22
+132,Bhagawat Singh Godara,Curaj ,20,Male,Muscle,1,1000,12-11-2022,Attrited,Nov-22
+133,Yashwant Jadhav,Curaj ,21,Male,Muscle,3,2400,17-11-2022,Attrited,Nov-22
+134,Bhageshwar Bharti,Curaj ,23,Male,Muscle,1,800,18-11-2022,Existing,Nov-22
+135,Manobal Kumar,Curaj ,23,Male,Muscle,1,800,18-11-2022,Attrited,Nov-22
+136,Anubhav Sharma ,Curaj,23,Male,Muscle,1,700,18-11-2022,Attrited,Nov-22
+137,Durgesh Nishad,Curaj ,19,Male,Muscle,1,800,21-11-2022,Attrited,Nov-22
+138,Divyanshu Kalal,Curaj ,18,Male,Muscle,1,800,21-11-2022,Attrited,Nov-22
+139,Sandeep ,Curaj ,23,Male,Muscle,3,2000,22-11-2022,Attrited,Nov-22
+140,Amit Kumar ,Curaj ,28,Male,Muscle,1,800,25-11-2022,Attrited,Nov-22
+141,Manisha,Curaj ,27,Female,Both,1,1300,28-11-2022,Attrited,Nov-22
+142,Awaan Khan,Curaj,22,Male,Muscle,1,800,28-11-2022,Attrited,Nov-22
+143,Aman Sen,Curaj,20,Male,Muscle,1,800,28-11-2022,Attrited,Nov-22
+144,Deepak Verma,Curaj ,30,Male,Muscle,1,500,10-11-2022,Attrited,Nov-22
+145,Sohil Ali,Bandarsindari ,,Male,Muscle,1,700,20-11-2022,Attrited,Nov-22
+146,Sukhwinder Singh ,Curaj ,26,Male,Muscle,1,700,07-12-2022,Existing,Dec-22
+147,Rishabh Soni,Curaj ,24,Male,Muscle,1,700,07-12-2022,Attrited,Dec-22
+148,Mohit Bansal,Curaj ,23,Male,Muscle,1,700,07-12-2022,Attrited,Dec-22
+149,Uttam Kumar,Curaj,23,Male,Muscle,1,700,08-12-2022,Attrited,Dec-22
+150,Areeb Khan,Curaj ,24,Male,Both,3,3500,13-12-2022,Attrited,Dec-22
+151,Wahengbamiha,Curaj,21,Male,Muscle,6,3600,15-12-2022,Existing,Dec-22
+152,Ram Cheeta,Curaj ,20,Male,Muscle,1,700,16-12-2022,Existing,Dec-22
+153,Aayush,Curaj,21,Male,Muscle,3,2100,19-12-2022,Attrited,Dec-22
+154,Dheeraj Kumar,Curaj ,25,Male,Muscle,1,800,19-12-2022,Attrited,Dec-22
+155,Suman Yadav,Curaj ,25,Female,Muscle,1,800,19-12-2022,Attrited,Dec-22
+156,Kishan Kumar ,Curaj ,23,Male,Muscle,1,750,19-12-2022,Attrited,Dec-22
+157,Sidharth Kumar ,Curaj ,25,Male,Muscle,1,750,19-12-2022,Attrited,Dec-22
+158,Medha Bhattacharya ,Curaj ,20,Female,Muscle,3,2000,19-12-2022,Existing,Dec-22
+159,Priyansh Parashar,Curaj ,18,Male,Muscle,1,700,19-12-2022,Attrited,Dec-22
+160,Anubhav Aanand ,Curaj ,22,Male,Muscle,1,800,20-12-2022,Attrited,Dec-22
+161,Prince yadav,Curaj ,22,Male,Muscle,6,3500,20-12-2022,Existing,Dec-22
+162,Nikhil ,Curaj,25,Male,Muscle,6,3500,20-12-2022,Attrited,Dec-22
+163,Dishant Rohila,Curaj ,23,Male,Muscle,1,700,20-12-2022,Attrited,Dec-22
+164,Debjyoti Mukherjee ,Curaj ,23,Male,Muscle,3,2000,22-12-2022,Attrited,Dec-22
+165,Shouvanik,Curaj,22,Male,Muscle,1,800,22-12-2022,Existing,Dec-22
+166,Asharam Choudhary ,Mundoti ,19,Male,Muscle,1,800,26-12-2022,Attrited,Dec-22
+167,Ankita Bhuparia,Curaj ,23,Female,Muscle,1,700,30-12-2022,Attrited,Dec-22
+168,Gautam Dave,Curaj ,19,Male,Muscle,1,800,02-01-2023,Attrited,Jan-23
+169,Vaibhav Meena,Curaj,26,Male,Both,1,1200,02-01-2023,Attrited,Jan-23
+170,Mayur Sharma,Curaj ,22,Male,Muscle,1,800,02-01-2023,Existing,Jan-23
+171,Gaurav Sharma ,Curaj ,21,Male,Muscle,3,2100,03-01-2023,Attrited,Jan-23
+172,Abhishek Kumawat ,Curaj ,21,Male,Muscle,3,2100,03-01-2023,Attrited,Jan-23
+173,Shashank ,Curaj ,18,Male,Muscle,1,800,05-01-2023,Attrited,Jan-23
+174,Nishmath,Curaj ,20,Male,Muscle,1,800,05-01-2023,Attrited,Jan-23
+175,Mukesh Saini,Curaj ,19,Male,Muscle,1,700,05-01-2023,Existing,Jan-23
+176,Rohit Kumar,Curaj ,20,Male,Muscle,1,700,05-01-2023,Existing,Jan-23
+177,Tharun Durgam,Curaj ,20,Male,Muscle,3,2100,09-01-2023,Attrited,Jan-23
+178,Kethawath,Curaj ,21,Male,Muscle,3,2100,09-01-2023,Attrited,Jan-23
+179,Rudresh,Curaj,22,Male,Muscle,1,800,09-01-2023,Existing,Jan-23
+180,Vikash,Curaj,30,Male,Muscle,1,800,09-01-2023,Attrited,Jan-23
+181,Vikas Dhankar,Curaj ,25,Male,Muscle,1,800,09-01-2023,Attrited,Jan-23
+182,Nitin Yadav ,Curaj,24,Male,Muscle,1,800,09-01-2023,Existing,Jan-23
+183,Sameer Kumar Meena,Curaj ,21,Male,Muscle,1,800,11-01-2023,Existing,Jan-23
+184,Sheelam,Curaj ,22,Female,Muscle,1,800,11-01-2023,Attrited,Jan-23
+185,Chetan Meena,Curaj ,22,Male,Muscle,1,800,11-01-2023,Attrited,Jan-23
+186,Yogesh Kumar ,Curaj,21,Male,Muscle,1,750,11-01-2023,Existing,Jan-23
+187,Pushpendra Singh ,Curaj ,17,Male,Muscle,3,2000,11-01-2023,Attrited,Jan-23
+188,Rahul Kumar ,Curaj ,21,Male,Muscle,1,800,16-01-2023,Existing,Jan-23
+189,Dayaram Gurjar ,Curaj ,23,Male,Muscle,1,700,18-01-2023,Attrited,Jan-23
+190,Deravar Thory,Curaj,21,Male,Both,3,3500,18-01-2023,Attrited,Jan-23
+191,Tushar Daila,Bandarsindri,17,Male,Muscle,1,800,12-01-2023,Existing,Jan-23
+192,shriraj Tripathy,Curaj,21,Male,Muscle,1,800,19-01-2023,Attrited,Jan-23
+193,Rahul Kumar Upadhyay,Curaj,21,Male,Muscle,1,800,19-01-2023,Attrited,Jan-23
+194,Abhishek Choudhary,Curaj,19,Male,Muscle,1,700,06-01-2023,Existing,Jan-23
+195,Mukesh Choudhary,Curaj,18,Male,Muscle,1,700,06-01-2023,Attrited,Jan-23
+196,Raj Sharma,Curaj,26,Male,Muscle,1,700,06-01-2023,Existing,Jan-23
+197,Sunny Verma,Curaj,,Male,Muscle,3,2000,19-01-2023,Attrited,Jan-23
+198,Vikram Singh,Curaj,26,Male,Muscle,3,2100,23-01-2023,Attrited,Jan-23
+199,Muhammed Salman,,22,Male,Muscle,1,800,23-01-2023,Attrited,Jan-23
+200,Rohit Yadav,Curaj,22,Male,Muscle,1,800,24-01-2023,Attrited,Jan-23
+201,Dhruv Singh Rathore,Curaj,20,Male,Muscle,1,800,23-01-2023,Attrited,Jan-23
+202,Harshvardhan Singh Ranawat,Curaj,20,Male,Muscle,1,800,26-01-2023,Existing,Jan-23
+203,Gagan Choudhary,Curaj,22,Male,Muscle,1,800,30-01-2023,Attrited,Jan-23
+204,Annu Chauhan,Curaj,26,Female,Muscle,1,800,27-01-2023,Attrited,Jan-23
+205,Keshu Yadav,,17,Male,Muscle,1,800,01-02-2023,Attrited,Feb-23
+206,Aashish Yadav,Curaj,24,Male,Muscle,1,800,23-01-2023,Attrited,Jan-23
+207,Dilshan Singh Mannas,Curaj,20,Male,Muscle,1,800,03-02-2023,Attrited,Feb-23
+208,Hansraj prajapat,Bandarsindri,,Male,Muscle,1,700,25-01-2023,Attrited,Jan-23
+209,Kamlesh Choudhary,Curaj,21,Male,Muscle,1,800,08-02-2023,Attrited,Feb-23
+210,Komal Meena,Curaj,22,Female,Muscle,1,800,09-02-2023,Attrited,Feb-23
+211,Mohsin Khan,Curaj,22,Male,Muscle,1,800,05-02-2023,Existing,Feb-23
+212,Harigovind,Curaj,23,Male,Muscle,1,800,13-02-2023,Existing,Feb-23
+213,Shantanu Swaroop,,23,Male,Muscle,1,800,15-02-2023,Attrited,Feb-23
+214,Jeetram Choudhary,Bandarsindri,21,Male,Muscle,1,800,15-02-2023,Attrited,Feb-23
+215,Sher Singh,Curaj,19,Male,Muscle,1,800,20-02-2023,Attrited,Feb-23
+216,Aaditya Chauhan,Curaj,21,Male,Muscle,1,800,22-02-2023,Existing,Feb-23
+217,Mukesh Kumar,Cueaj,22,Male,Muscle,1,800,22-02-2023,Attrited,Feb-23
+218,Pradhumn singh,Curaj,22,Male,Muscle,1,800,25-02-2023,Attrited,Feb-23
+219,Abhishek yadav,Curaj,22,Male,Both,1,1300,03-03-2023,Attrited,Mar-23
+220,Dinesh singariya,Curaj,19,Male,Muscle,1,800,13-03-2023,Attrited,Mar-23
+221,Anushka Srivastava,Curaj,26,Female,Both,1,1300,13-03-2023,Existing,Mar-23
+222,Shalini Kumari,Curaj,23,Female,Both,1,1300,13-03-2023,Existing,Mar-23
+223,Bhagchand gurjar,Bandar seendri,23,Male,Muscle,1,700,01-03-2023,Attrited,Mar-23
+224,Bharat singh rathore,Bandar seendri,27,Male,Muscle,1,700,10-03-2023,Attrited,Mar-23
+225,Ankit bhargav,Bandar seendri,23,Male,Muscle,3,2000,13-03-2023,Attrited,Mar-23
+226,Kanishka singh,Curaj,26,Male,Both,1,1500,17-03-2023,Attrited,Mar-23
+227,Gourav kumar,Curaj,22,Male,Muscle,1,800,11-03-2023,Attrited,Mar-23
+228,Naveen kumari,Curaj,27,Female,Muscle,3,2000,15-03-2023,Attrited,Mar-23
+229,Khushal singh,Curaj,23,Male,Muscle,1,800,11-03-2023,Attrited,Mar-23
+230,Nisha srivastava,Curaj,27,Female,Muscle,3,2000,17-03-2023,Existing,Mar-23
+231,Girdhari sharma,Mundoti,24,Male,Both,1,1300,21-03-2023,Attrited,Mar-23
+232,Bajrang prajapat,Curaj,23,Male,Both,1,1300,21-03-2023,Existing,Mar-23
+233,Nandram choudhary,Curaj,24,Male,,,,21-03-2023,Attrited,Mar-23
+234,Anchal singh,Curaj,22,Female,Muscle,1,700,10-04-2023,Existing,Apr-23
+235,Suryansh,Curaj,20,Male,Muscle,1,800,11-04-2023,Existing,Apr-23
+236,Suvidh Agarwal,Curaj,22,Male,Muscle,1,750,12-04-2023,Attrited,Apr-23
+237,Rakesh kumar,Curaj,24,Male,Muscle,1,750,12-04-2023,Attrited,Apr-23
+238,Srinat krishna aiyar,Curaj,23,Male,Muscle,3,2000,01-04-2023,Attrited,Apr-23
+239,Govind lilhare,Curaj,24,Male,Muscle,1,800,14-04-2023,Existing,Apr-23
+240,Vijay Kumar,Curaj,24,Male,Muscle,1,800,18-04-2023,Attrited,Apr-23
+241,Rakesh kumar,Curaj,24,Male,Muscle,1,800,18-04-2023,Existing,Apr-23
+242,Rainalis jhangam,Curaj,21,Male,Muscle,1,600,26-04-2023,Attrited,Apr-23
+243,Shukhdev gurjar,Curaj,26,Male,Muscle,1,800,20-04-2023,Attrited,Apr-23
+244,Priyank goswami,Curaj,28,Male,,,,,Attrited,
+245,Farhan,Curaj,25,Male,Muscle,1,800,08-05-2023,Existing,May-23
+246,Asif Mohammad,Curaj,22,Male,Muscle,1,800,08-05-2023,Attrited,May-23
+247,Bhagwat singh,Curaj,20,Male,Muscle,1,800,08-05-2023,Attrited,May-23
+248,Devendra singh,Curaj,18,Male,Muscle,1,800,08-05-2023,Attrited,May-23
+249,Lokesh,Bandar seendri,16,Male,Muscle,1,800,08-05-2023,Attrited,May-23
+250,Sanjay jat,Bandar seendri,20,Male,Muscle,1,800,08-05-2023,Attrited,May-23
+251,Nehal kakroda,Curaj,21,Female,Muscle,1,800,17-05-2023,Attrited,May-23
+252,Vansh tak,Bandar seendri,17,Male,Muscle,1,800,24-05-2023,Attrited,May-23
+253,Jagdish dhaka,Bandar seendri,,Male,Muscle,1,800,08-06-2023,Attrited,Jun-23
+254,Ankit choudhary,Mundoti,19,Male,Muscle,1,800,15-06-2023,Attrited,Jun-23
+255,Neeraj unnikrishnan,Curaj,21,Male,Muscle,1,800,04-08-2023,Attrited,Aug-23
+256,Abhishek P menon,Curaj,22,Male,Muscle,1,800,04-07-2023,Attrited,Jul-23
+257,Ajay srinivas,Curaj,24,Male,Muscle,1,800,04-07-2023,Attrited,Jul-23
+258,Abhiram R.,Curaj ,,Male,Muscle,1,800,05-07-2023,Existing,Jul-23
+259,Ashok ,,,Male,Muscle,1,600,06-07-2023,Attrited,Jul-23
+260,Chandar prakash,Curaj,,Male,Muscle,1,700,07-07-2023,Attrited,Jul-23
+261,Ramraj Jat,Mundoti ,,Male,Muscle,1,600,07-07-2023,Attrited,Jul-23
+262,Vishu Gujjar,Bandarsindari ,,Male,Muscle,1,600,10-07-2023,Existing,Jul-23
+263,Nandram Gujjar,Bandarsindari ,,Male,Muscle,1,600,12-07-2023,Existing,Jul-23
+264,Saitan Gujjar,Bandarsindari ,,Male,Muscle,1,600,13-07-2023,Existing,Jul-23
+265,Lokesh Samaria,Mundoti ,,Male,Muscle,1,700,18-07-2023,Existing,Jul-23
+266,Aman Sakh,Curaj,,Male,Muscle,3,2100,18-07-2023,Existing,Jul-23

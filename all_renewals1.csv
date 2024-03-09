@@ -1,0 +1,182 @@
+Customer_Id,Name,Pkg_Duration,Amt_Paid,month_year
+34,Shivraj Tepan,1,700,Sep-22
+14,Yash Khandelwal ,1,700,Oct-22
+36,Mahaveer Jangid,1,700,Oct-22
+38,Lalchand ,1,500,Oct-22
+18,Jaishree ,1,1350,Nov-22
+19,Samir khan,1,800,Nov-22
+34,Shivraj Tepan,1,700,Nov-22
+38,Lalchand ,1,1000,Nov-22
+43,Jeetamal,2,1500,Nov-22
+45,Dinesh Kumar,3,2000,Nov-22
+56,Amit Chaudhary ,1,800,Nov-22
+57,Ravi Laxkar,1,700,Nov-22
+63,Ram Harsh Singh,3,2500,Nov-22
+64,Sudhanshu ,3,2500,Nov-22
+80,Saourabh,1,800,Nov-22
+87,Shweta Malik,1,800,Nov-22
+89,Nikhil Chaudhary ,1,700,Nov-22
+94,Sharvan Chaudhary ,3,2200,Nov-22
+103,Shankar Lal ,1,800,Nov-22
+105,Brahmadev ,1,800,Nov-22
+110,Ramjas Gurjar ,2,1200,Nov-22
+111,Rajendra Prasad ,1,700,Nov-22
+112,Chetan Chaumiya,1,700,Nov-22
+18,Jaishree ,1,1300,Dec-22
+22,Pradhan Gurjar ,2,1600,Dec-22
+28,Ashif,1,800,Dec-22
+34,Shivraj Tepan,1,600,Dec-22
+49,Pankaj Bairwa,3,2000,Dec-22
+80,Saourabh,1,800,Dec-22
+89,Nikhil Chaudhary ,1,700,Dec-22
+92,Akram Khan,1,800,Dec-22
+96,Rahul Chaudhary ,1,800,Dec-22
+106,Hemlata ,1,800,Dec-22
+111,Rajendra Prasad ,1,600,Dec-22
+114,Digvijay Meena,3,2000,Dec-22
+126,Diksha Kumari,1,1600,Dec-22
+128,Sikha Jain ,1,1600,Dec-22
+129,Prakash,1,800,Dec-22
+130,Anmol Gupta ,1,800,Dec-22
+132,Bhagawat Singh Godara,1,800,Dec-22
+144,Deepak Verma,1,500,Dec-22
+3,Harishankar Shibu,1,1800,Jan-23
+4,Jagdish Jadhav,1,1800,Jan-23
+11,Krishna Kumar Mohbey,1,1800,Jan-23
+12,Anuradha Pandey ,1,1800,Jan-23
+13,Sarath Kumar,3,2100,Jan-23
+19,Samir khan,1,800,Jan-23
+24,Aarya Nayak,1,800,Jan-23
+25,Pawan Sharma,1,700,Jan-23
+28,Ashif,1,800,Jan-23
+56,Amit Chaudhary ,1,800,Jan-23
+59,Akhil Agrawal ,1,1800,Jan-23
+70,Himanshu Verma ,3,2100,Jan-23
+73,Ajay,3,2000,Jan-23
+89,Nikhil Chaudhary ,1,700,Jan-23
+135,Manobal Kumar,1,800,Jan-23
+137,Durgesh Nishad,1,800,Jan-23
+141,Manisha,2,3500,Jan-23
+142,Awaan Khan,1,800,Jan-23
+144,Deepak Verma,1,500,Jan-23
+156,Kishan Kumar ,1,750,Jan-23
+157,Sidharth Kumar ,1,750,Jan-23
+160,Anubhav Aanand ,1,800,Jan-23
+6,Harishankar Nagar ,1,800,Feb-23
+7,Kavita,1,800,Feb-23
+8,Abhinav,3,2100,Feb-23
+34,Shivraj Tepan,2,1600,Feb-23
+41,Rahul kumar,3,2100,Feb-23
+57,Ravi Laxkar,2,1400,Feb-23
+82,Deepak,1,700,Feb-23
+106,Hemlata ,1,800,Feb-23
+110,Ramjas Gurjar ,1,1000,Feb-23
+111,Rajendra Prasad ,1,600,Feb-23
+119,Yash,1,800,Feb-23
+120,Sahil Yadav,3,2100,Feb-23
+129,Prakash,3,2000,Feb-23
+130,Anmol Gupta ,1,800,Feb-23
+132,Bhagawat Singh Godara,1,800,Feb-23
+133,Yashwant Jadhav,1,800,Feb-23
+137,Durgesh Nishad,1,800,Feb-23
+145,Sohil Ali,1,700,Feb-23
+160,Anubhav Aanand ,1,800,Feb-23
+163,Dishant Rohila,1,700,Feb-23
+165,Shouvanik,1,800,Feb-23
+166,Asharam Choudhary ,1,800,Feb-23
+168,Gautam Dave,1,800,Feb-23
+175,Mukesh Saini,1,700,Feb-23
+176,Rohit Kumar,1,700,Feb-23
+180,Vikash,1,800,Feb-23
+186,Yogesh Kumar ,1,750,Feb-23
+191,Tushar Daila,1,800,Feb-23
+201,Dhruv Singh Rathore,1,800,Feb-23
+206,Aashish Yadav,1,800,Feb-23
+208,Hansraj prajapat,1,700,Feb-23
+5,Mahendra Saha,3,2000,Mar-23
+18,Jaishree ,2,1300,Mar-23
+25,Pawan Sharma,1,700,Mar-23
+28,Ashif,1,400,Mar-23
+82,Deepak,2,1300,Mar-23
+93,Nasatula ,1,700,Mar-23
+94,Sharvan Chaudhary ,1,800,Mar-23
+106,Hemlata ,1,800,Mar-23
+111,Rajendra Prasad ,1,600,Mar-23
+114,Digvijay Meena,1,800,Mar-23
+130,Anmol Gupta ,1,800,Mar-23
+137,Durgesh Nishad,1,800,Mar-23
+154,Dheeraj Kumar,1,800,Mar-23
+160,Anubhav Aanand ,1,800,Mar-23
+163,Dishant Rohila,1,700,Mar-23
+164,Debjyoti Mukherjee ,3,2100,Mar-23
+165,Shouvanik,1,800,Mar-23
+166,Asharam Choudhary ,1,800,Mar-23
+168,Gautam Dave,1,800,Mar-23
+180,Vikash,1,800,Mar-23
+201,Dhruv Singh Rathore,1,800,Mar-23
+203,Gagan Choudhary,1,800,Mar-23
+206,Aashish Yadav,1,800,Mar-23
+207,Dilshan Singh Mannas,1,800,Mar-23
+212,Harigovind,1,800,Mar-23
+10,Gajananda Pareek,1,800,Apr-23
+19,Samir khan,1,800,Apr-23
+61,Shivraj Singh ,1,800,Apr-23
+115,Sonam ,3,2100,Apr-23
+122,Ashish Kumawat ,1,800,Apr-23
+130,Anmol Gupta ,1,800,Apr-23
+155,Suman Yadav,1,800,Apr-23
+160,Anubhav Aanand ,1,800,Apr-23
+163,Dishant Rohila,1,800,Apr-23
+168,Gautam Dave,1,800,Apr-23
+191,Tushar Daila,1,800,Apr-23
+192,shriraj Tripathy,1,800,Apr-23
+206,Aashish Yadav,1,800,Apr-23
+207,Dilshan Singh Mannas,1,800,Apr-23
+220,Dinesh singariya,1,800,Apr-23
+227,Gourav kumar,1,800,Apr-23
+229,Khushal singh,1,800,Apr-23
+34,Shivraj Tepan,2,1500,May-23
+70,Himanshu Verma ,1,800,May-23
+82,Deepak,1,700,May-23
+129,Prakash,3,2000,May-23
+137,Durgesh Nishad,1,800,May-23
+141,Manisha,1,1200,May-23
+191,Tushar Daila,1,800,May-23
+193,Rahul Kumar Upadhyay,1,800,May-23
+207,Dilshan Singh Mannas,1,800,May-23
+231,Girdhari sharma,1,1200,May-23
+234,Anchal singh,1,700,May-23
+212,Harigovind,1,400,Jun-23
+231,Girdhari sharma,1,700,Jun-23
+246,Asif Mohammad,1,400,Jun-23
+249,Lokesh,1,700,Jun-23
+70,Himanshu Verma ,1,800,Jul-23
+137,Durgesh Nishad,1,800,Jul-23
+160,Anubhav Aanand ,1,800,Jul-23
+207,Dilshan Singh Mannas,1,800,Jul-23
+212,Harigovind,1,400,Jul-23
+220,Dinesh singariya,1,800,Jul-23
+223,Bhagchand gurjar,1,500,Jul-23
+234,Anchal singh,1,700,Jul-23
+246,Asif Mohammad,1,900,Jul-23
+247,Bhagwat singh,1,800,Jul-23
+255,Neeraj unnikrishnan,1,800,Jul-23
+34,Shivraj Tepan,1,600,Aug-23
+56,Amit Chaudhary ,1,700,Aug-23
+70,Himanshu Verma ,1,800,Aug-23
+82,Deepak,1,700,Aug-23
+152,Ram Cheeta,1,700,Aug-23
+160,Anubhav Aanand ,1,800,Aug-23
+191,Tushar Daila,1,600,Aug-23
+231,Girdhari sharma,1,700,Aug-23
+234,Anchal singh,1,700,Aug-23
+246,Asif Mohammad,1,500,Aug-23
+258,Abhiram R.,1,800,Aug-23
+259,Ashok ,1,600,Aug-23
+260,Chandar prakash,1,700,Aug-23
+261,Ramraj Jat,1,600,Aug-23
+262,Vishu Gujjar,1,600,Aug-23
+263,Nandram Gujjar,1,600,Aug-23
+264,Saitan Gujjar,1,600,Aug-23
+265,Lokesh Samaria,1,700,Aug-23
+266,Aman Sakh,3,2100,Aug-23
